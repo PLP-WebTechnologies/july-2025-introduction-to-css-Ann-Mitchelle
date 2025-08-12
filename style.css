@@ -1,0 +1,74 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f9f9f9;
+}
+
+/* Header */
+.site-header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation */
+.main-nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.main-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.main-nav a:hover {
+    text-decoration: underline;
+}
+
+/* Content Sections */
+.content-box {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #ccc;
+}
+
+/* Card Example */
+.card {
+    background-color: #fff3cd;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid #ffecb5;
+    border-radius: 5px;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+/* Footer */
+.site-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
